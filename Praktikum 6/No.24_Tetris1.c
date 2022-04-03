@@ -1,7 +1,7 @@
 /*Nama File 	: No.24_Tetris1*/
-/*Deskripsi 	: Diberikan sebuah integer N > 0 yang dimasukan melalui keyboard, maka  tampilkanlah dilayar susunan karakter ‘*’*/
+/*Deskripsi 	: Diberikan sebuah integer N > 0 yang dimasukan melalui keyboard, maka  tampilkanlah dilayar susunan karakter â€˜*â€™*/
 /*Pembuat   	: 24060121140106 - Ahmad Alvin Griffin*/
-/*Tgl Pembuatan	: Rabu, 30 Maret 2022*/
+/*Tgl Pembuatan	: Sabtu, 2 April 2022*/
 
 #include <stdio.h>
 int main()
