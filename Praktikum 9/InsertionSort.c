@@ -1,6 +1,6 @@
 // Nama File : InsertionSort.c
 // Deskripsi : Mnegurutkan data dengan Insertion sorting
-// Pembuat : Ahmad Alvin griffin
+// Pembuat : Ahmad Alvin Griffin
 // Tanggal Pembuatan : Sabtu, 7 Mei 2022
 
 #include <stdio.h>
